@@ -10,7 +10,7 @@ function App() {
     <LocalizationProvider dateAdapter={AdapterDayjs}>
       <>
         <Header></Header>
-        <JuegosContainer />
+        <Container />
       </>
     </LocalizationProvider>
   )

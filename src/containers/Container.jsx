@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
-import JuegosForm from '../components/JuegosForm'
-import JuegosView from '../components/JuegosView';
+import JuegosForm from '../components/Form'
+import JuegosView from '../components/View';
 import Snackbar from '@mui/material/Snackbar';
 import Alert from '@mui/material/Alert';
 function JuegosContainer() {
